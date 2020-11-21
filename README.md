@@ -8,7 +8,7 @@ This project is launched by Spix-P.
 * [video](https://www.youtube.com/watch?v=JN1anI0hPfc&feature=youtu.be&fbclid=IwAR3YTUHXKP9sw0eHbtpW4WQruGLkmpguIG_MX5ZO8sioOXcRXBBm7nY340E) 
 * Author :   
     * Le Van Pon 
-    * Nguyen Phuc Minh
+    * Nguyen Phuc Minh  
 ![logo_figure](./asset/logo.png)
 
 Please follow the instruction of README from each folder .
