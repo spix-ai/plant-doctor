@@ -1,0 +1,423 @@
+{
+  "0": {
+    "plant": "Apple",
+    "disease": "Scab",
+    "symptom": [
+      "On the leaves are round, greenish gray, slightly raised, the disease usually appears first on the underside of the leaf, then gradually spreads. ",
+      "On the diseased fruit is black brown, raised like scabies and cracks, the fruit is distorted and falls prematurely."
+    ],
+    "treatment": [
+      "After harvest, it is necessary to thoroughly prune and collect all diseased plant residues, gather and burn all to avoid spreading.",
+      "Do not plant too thick to make the garden lack light; pruning, shaping plants to grow and develop well, with ventilation, avoid high humidity in the garden."
+    ],
+    "medicine1": "Ridozeb 72WP",
+    "medicine2": "Carbenda Supper",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "1": {
+    "plant": "Apple",
+    "disease": "Black Rot",
+    "symptom": [
+      "Infected leaves develop \"frog-eye leaf spot.”The se are circular spots with purplish or reddish edges and light tan interiors.",
+      "Cankers appear as a sunken, reddish-brown area on infected branches. Cankers often have rough or cracked bark.",
+      "Cankers may be hard to see. If you see rotten fruit or frog-eye leaf spot, inspect your trees for cankers."
+    ],
+    "treatment": [
+      "Prune out dead or diseased branches.",
+      "Pick all dried and shriveled fruits remaining on the trees.",
+      "Remove infected plant material from the area.",
+      "All infected plant parts should be burned, buried or sent to a municipal composting site.",
+      "Be sure to remove the stumps of any apple trees you cut down. Dead stumps can be a source of spores."
+    ],
+    "medicine1": "Ridozeb 72WP",
+    "medicine2": "Carbenda Supper",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "2": {
+    "plant": "Apple",
+    "disease": "Cedar Apple Rust",
+    "symptom": [
+      "On leaves: Large yellow spots appear on cedar-hawthorn rust the upper surface of the leaves turning yellow orange to gray-brown as the spores mature. When rust is severe, all the foliage may turn bright yellow and drop prematurely. The orange leaf spots are smaller on apple and crabapple.",
+      "On fruits and twigs: Deformation of fruits and young twigs is particularly severe on hawthorns, but this damage is usually caused by the cedar-quince rust fungi and not cedar hawthorn rust fungi."
+    ],
+    "treatment": [
+      "Prevent infection using a mixture of cultural methods and chemical treatments.",
+      "Focus on purging infected leaves and fruit from around your tree.",
+      "Don’t plant junipers near rust-susceptible plants, which include both apples and crabapples. Consider resistant apple varieties, such as ‘Freedom,’ ‘Liberty,’ ‘Redfree,’ or ‘William’s Pride.’",
+      "Destroy wild or unwanted apples, crab apples, or junipers, so they won't infect your apple tree."
+    ],
+    "medicine1": "Ridozeb 72WP, Manozeb 80WP: 60-80 g/16 liters",
+    "medicine2": "Carbenda Supper 50SC: 30 ml/16 liters",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "3": {
+    "plant": "Apple",
+    "disease": "Not found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Ridozeb 72WP, Manozeb 80WP: 60-80 g/16 liters",
+    "medicine2": "Carbenda Supper 50SC: 30 ml/16 liters",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "4": {
+    "plant": "Blueberry",
+    "disease": "Not found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Ridozeb 72WP, Manozeb 80WP: 60-80 g/16 liters",
+    "medicine2": "Carbenda Supper 50SC: 30 ml/16 liters",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "5": {
+    "plant": "Cherry",
+    "disease": "Powdery Mildew",
+    "symptom": [
+      "Initial symptoms, often occurring 7 to 10 days after the onset of the first irrigation, are light roughly-circular, powdery looking patches on young, susceptible leaves (newly unfolded, and light green expanding leaves).",
+      "As the season progresses and infection is spread by wind, leaves may become distorted, curling upward. Severe infections may cause leaves to pucker and twist",
+      "Newly developed leaves on new shoots become progressively smaller, are often pale and may be distorted."
+    ],
+    "treatment": [
+      "The key to managing powdery mildew on the fruit is to keep the disease off of the leaves.",
+      "Most synthetic fungicides are preventative, not eradicative, so be pro-active about disease prevention.",
+      "Maintain a consistent program from shuck fall through harvest"
+    ],
+    "medicine1": "Ridozeb 72WP, Manozeb 80WP: 60-80 g/16 liters",
+    "medicine2": "Carbenda Supper 50SC: 30 ml/16 liters",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "6": {
+    "plant": "Cherry",
+    "disease": "Not found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Ridozeb 72WP, Manozeb 80WP: 60-80 g/16 liters",
+    "medicine2": "Carbenda Supper 50SC: 30 ml/16 liters",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "7": {
+    "plant": "Corn",
+    "disease": "Gray leaf spot",
+    "symptom": [
+      "Gray leaf spot lesions begin as small necrotic pinpoints with chlorotic halos, these are more visible when leaves are backlit.",
+      "Coloration of initial lesions can range from tan to brown before sporulation begins.",
+      "Because early lesions are ambiguous, they are easily confused with other foliar diseases such as anthracnose leaf blight, eyespot, or common rust."
+    ],
+    "treatment": [
+      "To prevent corn leaf spot disease, first of all, attention must be paid to intensive farming measures",
+      "Selecting suitable soil to grow maize, plowing thoroughly, burying residues of diseased leaves into deep soil to eliminate pathogens that exist on old leaves. sowing the right season",
+      "Use disease-free seed sources, and treat seeds carefully before sowing",
+      "Provide adequate water, proactively irrigate reasonably. Do not allow the field to flood, increase the chance of infection."
+    ],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "8": {
+    "plant": "Corn",
+    "disease": "Common Rust",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "9": {
+    "plant": "Corn",
+    "disease": "Northern Leaf Blight",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "10": {
+    "plant": "Corn",
+    "disease": "Not found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "11": {
+    "plant": "Grape",
+    "disease": "Black Rot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "12": {
+    "plant": "Grape",
+    "disease": "Black Measles",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "13": {
+    "plant": "Grape",
+    "disease": "Isariopsis Leaf Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "14": {
+    "plant": "Grape",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "15": {
+    "plant": "Orange",
+    "disease": "Citrus Greening",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "16": {
+    "plant": "Peach",
+    "disease": "Bacterial Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "17": {
+    "plant": "Peach",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "18": {
+    "plant": "Pepper",
+    "disease": "Bacterial Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "19": {
+    "plant": "Pepper",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "20": {
+    "plant": "Potato",
+    "disease": "Early Blight",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "21": {
+    "plant": "Potato",
+    "disease": "Late Blight",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "22": {
+    "plant": "Potato",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "23": {
+    "plant": "Raspberry",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "24": {
+    "plant": "Soybean",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "25": {
+    "plant": "Squash",
+    "disease": "Powdery Mildew",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "26": {
+    "plant": "Strawberry",
+    "disease": "Leaf Scorch",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "27": {
+    "plant": "Strawberry",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "28": {
+    "plant": "Tomato",
+    "disease": "Bacterial Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "29": {
+    "plant": "Tomato",
+    "disease": "Early Blight",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "30": {
+    "plant": "Tomato",
+    "disease": "Late Blight",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "31": {
+    "plant": "Tomato",
+    "disease": "Left Mold",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "32": {
+    "plant": "Tomato",
+    "disease": "Septoria Leaf Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "33": {
+    "plant": "Tomato",
+    "disease": "Spider Mites",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "34": {
+    "plant": "Tomato",
+    "disease": "Target Spot",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "35": {
+    "plant": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "36": {
+    "plant": "Tomato",
+    "disease": "Tomato Mosaic Virus",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  },
+  "37": {
+    "plant": "Tomato",
+    "disease": "Not Found",
+    "symptom": [],
+    "treatment": [],
+    "medicine1": "Boocdo",
+    "medicine2": "Tilt",
+    "image1": "https://4.imimg.com/data4/OJ/OM/MY-6660819/easy-chemical-pesticide-500x500.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00NrmGLluIZgcF/Agricultural-Chemical-Pesticide-of-Glyphosate-41-SL-CAS-1071-83-6.jpg"
+  }
+}
